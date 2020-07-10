@@ -1,4 +1,4 @@
-[DEMO LINK](https://swipeeffect.vercel.app/)
+[DEMO LINK](https://yalantis-test-seven.vercel.app/#/)
 
 Made an animation with a mobile swipe up and down
 </br>
